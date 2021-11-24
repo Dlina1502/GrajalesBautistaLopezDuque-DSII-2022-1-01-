@@ -10,3 +10,6 @@ Aprendizaje de Github en el curso de Desarrollo de Software 2021-01
 
 ### Pagina orientada a informar sobre Pipeline CI/CD
 
+- Característica de un pipeline CI/CD
+- Integración Continua (Continuous Integration CI)
+- 
