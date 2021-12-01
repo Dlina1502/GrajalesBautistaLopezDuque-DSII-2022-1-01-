@@ -12,4 +12,8 @@ Aprendizaje de Github en el curso de Desarrollo de Software 2021-01
 
 - Característica de un pipeline CI/CD
 - Integración Continua (Continuous Integration CI)
-- 
+- Entrega continua (Continuous Delivery CD)
+- Prueba continua (Continuous Test CT)
+- Despliegue Controlado
+- Herramientas CI/CD
+
