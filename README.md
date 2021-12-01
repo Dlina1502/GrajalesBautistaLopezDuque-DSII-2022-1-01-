@@ -16,4 +16,3 @@ Aprendizaje de Github en el curso de Desarrollo de Software 2021-01
 - Prueba continua (Continuous Test CT)
 - Despliegue Controlado
 - Herramientas CI/CD
-
